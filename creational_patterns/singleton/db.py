@@ -1,13 +1,10 @@
-"""
-Implementación del patrón Singleton para configuración de base de datos PostgreSQL.
+# Implementación del patrón Singleton para configuración de base de datos PostgreSQL.
 
-Este módulo demuestra un caso de uso productivo del patrón Singleton para manejar
-la configuración de conexión a PostgreSQL, asegurando que solo exista una instancia
-de configuración en toda la aplicación.
-"""
+# Este módulo demuestra un caso de uso productivo del patrón Singleton para manejar
+# la configuración de conexión a PostgreSQL, asegurando que solo exista una instancia
+# de configuración en toda la aplicación.
 
 import os
-from typing import Optional
 from creational_patterns.singleton.decorator import singleton
 
 
