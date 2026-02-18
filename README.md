@@ -15,6 +15,8 @@ El repositorio está organizado por categorías de patrones de diseño. Cada pat
 1. **Singleton** - Garantiza que una clase tenga una única instancia
 2. **Factory Method** - Define una interfaz para crear objetos, delegando la decisión de instanciación a las subclases
 3. **Abstract Factory** - Proporciona una interfaz para crear familias de objetos relacionados sin especificar sus clases concretas
+4. **Builder** - Separa la construcción de objetos complejos de su representación, permitiendo crear diferentes configuraciones
+5. **Prototype** - Permite crear nuevos objetos clonando instancias existentes, evitando la creación desde cero
 
 ## Inspiración
 
