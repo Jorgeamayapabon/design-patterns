@@ -1,6 +1,6 @@
 # Patrones de Diseño en Python
 
-Este repositorio contiene implementaciones en Python de los principales patrones de diseño de software, enfocándose actualmente en los **patrones creacionales**.
+Este repositorio contiene implementaciones en Python de los principales patrones de diseño de software: **patrones creacionales** y **patrones estructurales**.
 
 ## Contenido
 
@@ -17,6 +17,10 @@ El repositorio está organizado por categorías de patrones de diseño. Cada pat
 3. **Abstract Factory** - Proporciona una interfaz para crear familias de objetos relacionados sin especificar sus clases concretas
 4. **Builder** - Separa la construcción de objetos complejos de su representación, permitiendo crear diferentes configuraciones
 5. **Prototype** - Permite crear nuevos objetos clonando instancias existentes, evitando la creación desde cero
+
+### Patrones Estructurales Implementados
+
+1. **Adapter** - Permite que objetos con interfaces incompatibles trabajen juntos actuando como puente entre la interfaz esperada y la de una clase o librería externa
 
 ## Inspiración
 
