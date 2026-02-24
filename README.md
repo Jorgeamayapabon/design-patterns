@@ -1,6 +1,6 @@
 # Patrones de Diseño en Python
 
-Este repositorio contiene implementaciones en Python de los principales patrones de diseño de software: **patrones creacionales** y **patrones estructurales**.
+Este repositorio contiene implementaciones en Python de los principales patrones de diseño de software: **patrones creacionales**, **patrones estructurales** y **patrones de comportamiento**.
 
 ## Contenido
 
@@ -21,6 +21,10 @@ El repositorio está organizado por categorías de patrones de diseño. Cada pat
 ### Patrones Estructurales Implementados
 
 1. **Adapter** - Permite que objetos con interfaces incompatibles trabajen juntos actuando como puente entre la interfaz esperada y la de una clase o librería externa
+
+### Patrones de Comportamiento Implementados
+
+1. **Strategy** - Define una familia de algoritmos (por ejemplo, tipos de envío), encapsula cada uno en una clase y los hace intercambiables en tiempo de ejecución
 
 ## Inspiración
 
